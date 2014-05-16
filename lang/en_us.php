@@ -4,8 +4,6 @@
 Form Tools - Module Language File
 ---------------------------------
 
-File created: Oct 24th, 2:46 AM
-
 If you would like to help translate this module, please visit:
 http://www.formtools.org/translations/
 */
