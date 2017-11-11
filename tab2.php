@@ -1,7 +1,8 @@
 <?php
 
-$page_vars = array();
-$page_vars["page"] = $page;
-$page_vars["tabs"] = $tabs;
+$page_vars = array(
+    "page" => $page,
+    "tabs" => $tabs
+);
 
-ft_display_module_page("templates/index.tpl", $page_vars);
+$module->displayPage("templates/index.tpl", $page_vars);
